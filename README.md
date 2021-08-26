@@ -1,3 +1,5 @@
+NMB: Test add a line should trigger workflow rerun
+
 # MNIST in TensorFlow
 
 This repository demonstrates using Paperspace Gradient to train and deploy a deep learning model to recognize handwritten characters, which is a canonical sample problem in machine learning.
